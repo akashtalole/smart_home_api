@@ -1,1 +1,11 @@
 # smart_home_api
+![](/docs/img/rest_api_console.png)
+![](/docs/img/login.png)
+![](/docs/img/api_root.png)
+![](/docs/img/users_get.png)
+![](/docs/img/users_list.png)
+![](/docs/img/users_options.png)
+![](/docs/img/users_post.png)
+![](/docs/img/groups_list.png)
+[](/docs/img/groups_options.png)
+[](/docs/img/groups_post.png)
